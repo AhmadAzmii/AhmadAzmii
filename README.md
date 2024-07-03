@@ -23,7 +23,7 @@
 <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Node.js" />
 </a>
 <a href="https://www.php.net/" target="blank">
-<img align="center" src="    https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Node.js" />
+<img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Node.js" />
 </a>
 
 ### 💻 Backend Development
@@ -50,7 +50,7 @@
 <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Css3"  />
 </a>
 <a href="https://www.w3.org/html/" target="blank">
-<img align="center" src="    https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html5" />
+<img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html5" />
 </a>
 
 ### 🛢️ Database
