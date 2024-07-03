@@ -1,9 +1,12 @@
 # Hi, I'm Ahmad Azmi! 👋
+
 #### I'm a full stack developer 💻 with a great attention to detail. I enjoy tackling complex problems and crafting elegant solutions that span both front-end and back-end development.
+
 ## 👨‍💻 About Me
 
 **Talking about Personal Stuffs:**
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on some projects;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning redux and postgresql ;
 
@@ -12,12 +15,9 @@
 
 <br><br><br><br><br><br>
 
-
-
 ## 🎓 Skills
 
 ### 🏎️ Programming Languages
-
 
 <a href="https://www.javascript.com" target="blank">
 <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Node.js" />
@@ -27,6 +27,7 @@
 </a>
 
 ### 💻 Backend Development
+
 <a href="https://nodejs.org" target="blank">
 <img align="center" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </a>
@@ -35,6 +36,7 @@
 </a>
 
 ### 🌐 Frontend Development
+
 <a href="https://redux.js.org/" target="blank">
 <img align="center" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="React"/> 
 </a>
@@ -53,8 +55,6 @@
 
 ### 🛢️ Database
 
-
-
 <a href="https://www.mongodb.com/" target="blank">
 <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Node.js" />
 </a>
@@ -66,10 +66,11 @@
 </a>
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmadAzmii&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="AhmadAzmii stats card" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAzmii&layout=compact&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="AhmadAzmii top languages card" width="420" />
-</div>
+
+<div align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmadAzmii&show_icons=true&theme=default&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true" alt="AhmadAzmii stats card" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAzmii&layout=compact&theme=default&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true" alt="AhmadAzmii top languages card" width="420" />
+</div><p>
 
 ## 📫 Contact Me
 
