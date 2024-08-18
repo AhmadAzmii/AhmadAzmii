@@ -11,7 +11,7 @@
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning redux and postgresql ;
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: ahmad.azmi.zed@gmail.com;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1eZZ_srWwaTklICcw9rJYZ_8Yi5kBCt4t/view?usp=drive_link"> Resume.</a>.
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1qTMMSPaqNR8amrCHJYEizVaWn3Hc3gOa/view?usp=drive_link"> Resume.</a>.
 
 <br><br><br><br><br><br>
 
